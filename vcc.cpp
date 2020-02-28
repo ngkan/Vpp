@@ -32,6 +32,7 @@
 #define codau		signed
 #define	doloncua	sizeof
 #define tinh		static
+#define xau			string
 #define cautruc		struct
 #define chuyensang	switch
 #define mau			template
@@ -44,7 +45,17 @@
 #define sudung		using
 #define huvo		void
 #define trongkhi	while
-
+#define doc			cin
+#define in			cout
+#define sonhohon	min
+#define solonhon	max
+#define xa			endl
+#define danhsach	vector<int>
+#define nhetvaodit	push_back
+#define xoa			erase
+#define tim			find
+#define batdau		begin
+#define ketthuc		end
 
 sudung khonggian std;
 
